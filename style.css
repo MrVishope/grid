@@ -218,6 +218,8 @@
 
 
 .container__container4{
+    height: auto;
+    width: auto;
     grid-area: cont4;
     padding: 20px;
     display: grid;
